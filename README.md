@@ -7,3 +7,5 @@ For Object Detection there are firstly sliding windows, then one stage (Yolo,SSD
 they are all very automated.
 I present today a obsolete method to do such a task, with manual detection that you have to choose RoI carefully and slowly. 
 But it works anyway
+![result](https://user-images.githubusercontent.com/48290954/77699399-a7e6bd00-6fb2-11ea-9b22-2170b6e81159.png)
+
